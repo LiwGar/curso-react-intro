@@ -1,0 +1,79 @@
+form {
+    width: 90%;
+    max-width: 300px;
+    background: #495B73;
+    padding: 3rem 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+label {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: #72A9F2;
+    margin-bottom: 2rem;
+}
+
+textarea {
+    background: #EBEFF2;
+    border-radius: .3rem;
+    box-shadow: 0  1rem 1rem #495B73;
+    
+    font-size: 1.4rem;
+    text-align: center;
+    padding: 1.2rem;
+    height: 8rem;
+    width: calc(100% - 2rem);
+    border: .2rem solid #72A9F2;    
+}
+
+textarea::placeholder {
+    color: #b3b0b0;
+    font-family: 'Popins', sans-serif ;
+    font-weight: 400;
+    
+}
+
+textarea:focus {
+    outline-color: #72A9F2;
+}
+
+.TodoFormButtonContainer {
+    margin-top: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.TodoFormButton {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #EBEFF2;
+    font-weight: 400;
+    width: 6rem;
+    height: 3rem;
+    border-radius: .2rem;
+    border: none;
+    font-family: 'Popins', sans-serif ;
+}
+
+.TodoFormButtonAdd {
+    background: #72A9F2;
+    color: #EBEFF2;
+    font-weight: bold;
+    box-shadow: 0 .2rem .5rem #72A9F2;
+}
+
+.TodoFormButtonCancel {
+    background: transparent;
+    border: .2rem solid #72A9F2;
+    font-weight: bold;
+    box-shadow: 0 .2rem .5rem #72A9F2;
+}
+

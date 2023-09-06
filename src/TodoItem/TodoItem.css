@@ -1,0 +1,22 @@
+.TodoItem {
+  background: #EBEFF2;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2.2rem;
+  box-shadow: 0  1rem 1rem #495B73;
+  border-radius: .3rem;
+  
+}
+
+.TodoItem-p {
+  margin: 2rem 0 2rem 2rem;
+  width: calc(100% - 7rem);
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 400;
+}
+.TodoItem-p--complete {
+  text-decoration: line-through #929090;
+}
