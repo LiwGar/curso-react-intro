@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LiwGar/curso-react-intro/static/css/main.15475cb3.css",
-    "main.js": "/LiwGar/curso-react-intro/static/js/main.1fdf20d5.js",
-    "index.html": "/LiwGar/curso-react-intro/index.html",
-    "static/media/delete.svg": "/LiwGar/curso-react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/LiwGar/curso-react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.15475cb3.css.map": "/LiwGar/curso-react-intro/static/css/main.15475cb3.css.map",
-    "main.1fdf20d5.js.map": "/LiwGar/curso-react-intro/static/js/main.1fdf20d5.js.map"
+    "main.css": "./static/css/main.15475cb3.css",
+    "main.js": "./static/js/main.c5daa2cc.js",
+    "index.html": "./index.html",
+    "static/media/delete.svg": "./static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "./static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.15475cb3.css.map": "./static/css/main.15475cb3.css.map",
+    "main.c5daa2cc.js.map": "./static/js/main.c5daa2cc.js.map"
   },
   "entrypoints": [
     "static/css/main.15475cb3.css",
-    "static/js/main.1fdf20d5.js"
+    "static/js/main.c5daa2cc.js"
   ]
 }
