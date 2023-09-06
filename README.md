@@ -1,5 +1,14 @@
 # Curso de React.js  de la ruta Full Stack Developer con JavaScript con Platzi
 
+Hola!
+
+El objetivo principal del curso fue, poder desplegar y sacar a producción una app sencilla que tuviera como objetivo guardar un numero x de tareas personalizadas. 
+Comparto el objetivo del curso a través del siguiente link, https://liwgar.github.io/curso-react-intro/
+la cual está a disposición para que sea manipulada y sea puesta a prueba. 
+
+Muchas Gracias Platzi. 
+
+
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
