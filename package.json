@@ -31,8 +31,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": ".",
+  "homepage": "https://liwgar.github.io/curso-react-intro/",
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^4.0.0"
   }
 }
