@@ -1,3 +1,5 @@
+# Curso de React.js  de la ruta Full Stack Developer con JavaScript con Platzi
+
 # Repositorio base del Curso de Introducción a React.js en Platzi
 
 ¡Hola, Platzinauta!
