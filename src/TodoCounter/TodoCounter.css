@@ -1,17 +1,22 @@
 .TodoCounter {
-  font-size: 2rem;
+  
   text-align: center;
-  margin: 0;
+  margin: 4rem 4rem 4rem 4rem;
   padding: 3rem;
-  font-weight: 600;
-  color: #72A9F2;
-  background: #495B73;
-  box-shadow: 0  1rem 1rem #495B73;
-  border-radius: 0 0 .3rem .3rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.0;
+  color: #ededed;
+  background: #0f054cff;
+  border: .15rem solid #080328;
+  /* box-shadow:  0 .5rem 1rem #08e6ea; */
+  border-radius: .6rem;
 }
 
 .TodoCounter span {
   font-weight: bold;
+  color: #08e6ea;
+  
 }
 
 

@@ -1,15 +1,16 @@
 .TodoSearch {
   background: #EBEFF2;
-  border-radius: .3rem;
-  border: .2rem solid #273440;
-  margin: 0 2.8rem;
+  border-radius: .6rem;
+  border: .15rem solid #080328;
+  margin: 1rem 4rem 1rem 4rem;
   height: 3rem;
-  width: calc(100% - 6rem);
-  font-size: 1.4rem;
+  width: calc(100% - 8.5rem);
+  font-size: 1.6rem;
+  font-weight: 600;
+  letter-spacing: .1rem;
   text-align: center;
-  font-weight: 400;
   color: #1E1E1F;
-  box-shadow: 0px .5rem 5rem #495B73;
+  /* box-shadow:  0 .5rem 1rem #08e6ea; */
 }
 
 .TodoSearch::placeholder {
@@ -18,5 +19,5 @@
 }
 
 .TodoSearch:focus {
-  outline-color: #72A9F2;
+  outline-color: #fa154b;
 }

@@ -4,7 +4,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #273440;
+  background: #cdccf8ff;
   color: #273440;
   font-family: 'Popins', sans-serif ;
 }
@@ -14,3 +14,18 @@ body {
   position: relative;
   min-height: 100vh;
 }
+
+@media(max-width: 300px) and (max-width: 462px){
+  #root {
+      display: flex;
+      width: 90vw;
+      font-size: 20%;
+      justify-content: center;
+      align-items: center;
+  }
+}
+
+/* first bg #0f054cff */
+/* second bg #cdccf8ff */
+/* third bg #080328 */
+/* fourth bg #9494b5 */

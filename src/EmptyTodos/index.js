@@ -3,7 +3,7 @@ import './EmptyTodos.css';
 
 function EmptyTodos() {
   return (
-    <p className='emptyTodoInfo'>¡Crea tu primer ToDo!</p>
+    <p className='emptyTodoInfo'>¡Create your first ToDo!</p>
   );
 }
 

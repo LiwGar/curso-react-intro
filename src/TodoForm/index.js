@@ -28,9 +28,9 @@ function TodoForm(){
       
     return (
         <form onSubmit={onSubmit}>
-            <label>Inserta un nuevo ToDo</label>
+            <label>Insert a new ToDo</label>
             <textarea
-                placeholder="Nueva tarea"
+                placeholder="New ToDo"
                 value={newTodoValue}
                 onChange={onChange}
             />

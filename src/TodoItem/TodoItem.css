@@ -1,12 +1,14 @@
 .TodoItem {
-  background: #EBEFF2;
+  background: #cdccf8ff;
+  color: #080328;
   position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 2.2rem;
-  box-shadow: 0  1rem 1rem #495B73;
-  border-radius: .3rem;
+  margin: 2rem 4rem 2rem 4rem;
+  border: .15rem solid #080328;
+  /* box-shadow: 0  1rem 1rem #495B73; */
+  border-radius: .6rem;
   
 }
 

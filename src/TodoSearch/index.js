@@ -11,7 +11,7 @@ function TodoSearch() {
 
   return (
     <input
-      placeholder="Nombre de Tarea"
+      placeholder="ToDo name"
       className="TodoSearch"
       value={searchValue}
       onChange={(event) => {
