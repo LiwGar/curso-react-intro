@@ -21,3 +21,19 @@
 .TodoSearch:focus {
   outline-color: #fa154b;
 }
+
+
+@media(max-width: 532px){
+  
+  .TodoSearch  {
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    text-align: center;
+    letter-spacing: .15rem;
+    margin-top: -1.5rem;
+    width: 100%;
+    border: .15rem solid #080328;
+  }
+}
+

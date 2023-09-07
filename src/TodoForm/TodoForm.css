@@ -80,3 +80,64 @@ textarea:focus {
     /* box-shadow: 0 .2rem .5rem #72A9F2; */
 }
 
+
+@media(max-width: 532px){
+  
+    form  {
+        width: 38%; 
+        height: 38%; 
+          
+    }
+
+    label {
+        text-align: center;
+        font-size: 1.2rem;
+        color: #ededed; 
+        font-weight: 100;
+    }
+
+    textarea {
+        font-size: 1.2rem;
+        letter-spacing: .1rem;
+        text-align: center;
+        padding: 1.2rem;   
+        width: 100%;
+        border: .15rem solid #080328;    
+    }
+
+    .TodoFormButtonContainer {
+        margin-top: 1rem;
+       
+       
+    }
+
+    .TodoFormButton {
+        cursor: pointer;
+        display: inline-block;
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: #ededed;
+        font-weight: 200;
+        width: 4rem;
+        height: 2rem;
+        border-radius: .6rem;
+        border: none;
+        font-family: 'Popins', sans-serif ;
+    }
+
+    .TodoFormButtonAdd {
+        background: #fa154b;
+        color: #ededed;
+        font-size: 1rem;
+        margin-right: -1.2rem;
+    }
+
+    .TodoFormButtonCancel {
+        background: transparent;
+        border: .15rem solid #fa154b;
+        font-size: 1rem;
+        margin-left: -1.2rem;
+    }
+    
+}
+  

@@ -19,4 +19,15 @@
   
 }
 
+@media(max-width: 532px){
+  
+  .TodoCounter  {
+    font-size: 1.6rem;
+    margin-top: 2rem;
+    line-height: 1.1;
+    width: 80%;
+    box-shadow:  0 .5rem 1rem #08e6ea;
+    border: .15rem solid #080328;
+  }
+}
 

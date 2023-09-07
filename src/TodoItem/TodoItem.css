@@ -22,3 +22,35 @@
 .TodoItem-p--complete {
   text-decoration: line-through #929090;
 }
+
+@media(max-width: 532px){
+  
+  .TodoItem   {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 1rem 12rem 2rem 1rem;
+    margin-left: -.1rem;
+    border: .15rem solid #080328;
+  }
+
+  .TodoItem-p {
+    font-size: 1.3rem;
+  }
+}
+/* 
+@media(min-width: 383px){
+  
+  .TodoItem   {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 1rem 22rem 2rem 1rem;
+    margin-left: 0rem;
+    border: .15rem solid #080328;
+  }
+
+  .TodoItem-p {
+    font-size: 1.3rem;
+  }
+} */
