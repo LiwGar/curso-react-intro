@@ -4,7 +4,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #cdccf8ff;
+  background: #eed9eaff;
   color: #273440;
   font-family: 'Popins', sans-serif ;
 }
@@ -21,6 +21,9 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    background: url('./background-image/fondo\ app.png') no-repeat;
+    background-size: contain;
+    background-position: center;
   }
 }
 

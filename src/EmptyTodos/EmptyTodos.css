@@ -1,7 +1,7 @@
 .emptyTodoInfo {
-    font-weight: bold;
-    color: #080328;
-    font-size: 1.6rem;
+    font-weight: bolder;
+    color: #0f054cff;
+    font-size: 1.2rem;
     letter-spacing: .1rem;
-    margin: 2rem 4rem 2rem 4rem;
+    margin-top: 0rem;
 }
