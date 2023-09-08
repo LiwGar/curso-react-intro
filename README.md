@@ -2,8 +2,9 @@
 
 Hola!
 
-El objetivo principal del curso fue, poder desplegar y sacar a producción una app sencilla que tuviera como objetivo guardar un numero x de tareas personalizadas. 
-Comparto el objetivo del curso a través del siguiente link, https://liwgar.github.io/curso-react-intro/
+El objetivo principal del curso fue, aprender a crear una aplicacion web interactiva con React.js y poder desplegarla, la cual tiene como función guardar un numero x de tareas personalizadas. 
+En este proyecto se trabajó con componentes, props, estilos CSS, estados y efectos de React. Tambien se implementaron React Context, React Portals y a manipular el almacenamiento con Local Storage.
+Comparto el proyecto finalizado del curso a través del siguiente link, https://liwgar.github.io/curso-react-intro/
 la cual está a disposición para que sea manipulada y sea puesta a prueba. 
 
 Muchas Gracias Platzi. 
